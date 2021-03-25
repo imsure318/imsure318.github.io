@@ -53,6 +53,7 @@ title: Activity
 
 ### Professional Services
 
+Tutorials PC Chair of ECIR 2022 \\
 PC Member of SIGIR 2019, 2020, 2021 \\
 PC Member of SIGKDD 2021 \\
 PC Member of JSW 2021 \\
