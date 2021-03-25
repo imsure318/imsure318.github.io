@@ -56,11 +56,12 @@ title: Activity
 Tutorials PC Chair of ECIR 2022 \\
 PC Member of SIGIR 2019, 2020, 2021 \\
 PC Member of SIGKDD 2021 \\
-PC Member of JSW 2021 \\
 PC Member of WSDM 2021 \\
 PC Member of ACM TOIS 2020 \\
 PC Member of SDW Workshop 2019 \\
 PC Member of ECIR 2019 \\
+Reviewer of JSW 2021 \\
+Reviewer of TOIS 2021 \\
 Sub-reviewer of WWW 2021 \\
 Sub-reviewer of EACL 2021 \\
 Sub-reviewer of WSDM 2020
