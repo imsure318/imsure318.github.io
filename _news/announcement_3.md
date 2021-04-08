@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-01-10 07:59:00-0400
+date: 2019-12-20 15:59:00-0400
 inline: true
 ---
 
-Our paper "Novel Entity Discovery from Web Tables" was accepted as full paper at WWW '2020:sparkles: :smile:
+I was invited to give a talk on my PhD work at [IO data](https://www.io-data.no/).
