@@ -5,7 +5,7 @@ title: Activity
 <!--description: Materials for courses you taught. Replace this text with your description.-->
 ---
 
-### Working Experience
+### Work Experience
 
 <strong>03.2020 - Present</strong>: Research Scientist at Bloomberg AI, London, UK \\
 <strong>07.2019 - 02.2020</strong>: Senior Research Fellow, University of Stavanger, Norway \\
