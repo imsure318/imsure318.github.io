@@ -21,7 +21,7 @@ title: Activity
 <strong>Semester 2, 2017/2018</strong>: Advisor: master thesis on NLP with Tables, UiS\\
 <strong>Semester 2, 2017/2018</strong>: Teaching assistant, Web Programming course, UiS\\
 <strong>Semester 1, 2017/2018</strong>: Co-advisor: master project course on Smart Table Demo, UiS\\
-<strong>Semester 2, 2016/2017</strong>: Guest lecture, Web Programming course, UiS\\
+<strong>Semester 2, 2016/2017</strong>: Guest lecturer, Web Programming course, UiS\\
 <strong>Semester 2, 2015/2016</strong>: Teaching assistant, Distributed System course, UiS\\
 <strong>Semester 2, 2014/2015</strong>: Co-advisor: bachelor thesis on Heterogeneous Wireless Networks, NJUPT 
 

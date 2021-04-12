@@ -15,7 +15,7 @@ news: true
 social: true
 ---
 
-I am working in the AI group of Bloomberg as a research scientist. Before then, 
+I work as a research scientist in the AI group of Bloomberg, London, UK. Before then, 
 I obtained my doctoral degree at the University of Stavanger, Norway, in 2019, under the supervision of Prof. [Krisztian Balog](http://krisztianbalog.com/). 
 I used to be as a short-term visiting scholar at Carnegie Mellon University in 2019, visiting Prof. [Jamie Callan](http://www.cs.cmu.edu/~callan/). 
 My main research interests include information retrieval and text mining. My Ph.D. research is concerned with developing intelligent search technology for tabular data.
