@@ -9,7 +9,7 @@ title: Activity
 
 <strong>03.2020 - Present</strong>: Research Scientist at Bloomberg AI, London, UK \\
 <strong>07.2019 - 02.2020</strong>: Senior Research Fellow at University of Stavanger, Stavanger, Norway \\
-<strong>02.2019 - 05.2019</strong>: Visiting Scholar at Carnegie Mellon University, Pittsburg, USA \\
+<strong>02.2019 - 05.2019</strong>: Visiting Scholar at Carnegie Mellon University, Pittsburgh, USA \\
 <strong>09.2018 - 12.2018</strong>: Research Scientist Intern of AI group at Bloomberg, London, UK
 
 
