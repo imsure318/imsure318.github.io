@@ -63,7 +63,7 @@ PC Member of WSDM 2021 \\
 PC Member of ACM TOIS 2020 \\
 PC Member of SDW Workshop 2019 \\
 PC Member of ECIR 2019 \\
-Reviewer of JSW 2021 \\
+PC Member of JWS Special Issue \\
 Reviewer of TOIS 2021 \\
 Sub-reviewer of WWW 2021 \\
 Sub-reviewer of EACL 2021 \\
