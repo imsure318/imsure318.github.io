@@ -31,7 +31,7 @@ title: Activity
 <strong>2018</strong>: Project Plogen (50K nok, Prototype development for FAETE project) \\
 <strong>2017 - 2019</strong>: SIGIR 2017, 2018 and 2019 student travel grant (5650 US $) \\
 <strong>2014 - 2016</strong>: Quota Schema Scholarship of Norway (~200K nok) \\
-<strong>2013 - 2014</strong>: National Scholarship for Graduate Students of China (3.8K US $) \\
+<strong>2013 - 2014</strong>: National Scholarship for Graduate Students of China (20K CNY) \\
 <strong>2012 - 2013</strong>: Nandu Enterprise Outstanding Graduate Scholarship \\
 <strong>2011 - 2012</strong>: Best Student Model of NJUPT, Top 1/320 \\
 <strong>2009 - 2014</strong>: NJUPT scholarship for Undergraduates and Graduates, received annually
