@@ -7,10 +7,10 @@ title: Activity
 
 ### Work Experience
 
-<strong>03.2020 - Present</strong>: Research Scientist at Bloomberg AI, London, UK \\
-<strong>07.2019 - 02.2020</strong>: Senior Research Fellow at University of Stavanger, Stavanger, Norway \\
-<strong>02.2019 - 05.2019</strong>: Visiting Scholar at Carnegie Mellon University, Pittsburgh, USA \\
-<strong>09.2018 - 12.2018</strong>: Research Scientist Intern of AI group at Bloomberg, London, UK
+<strong>2020.03 - Present</strong>: Research Scientist at Bloomberg AI, London, UK \\
+<strong>2019.07 - 2020.02</strong>: Senior Research Fellow at University of Stavanger, Stavanger, Norway \\
+<strong>2019.02 - 2019.05</strong>: Visiting Scholar at Carnegie Mellon University, Pittsburgh, USA \\
+<strong>2018.09 - 2018.12</strong>: Research Scientist Intern of AI group at Bloomberg, London, UK
 
 
 ### Teaching and Supervision
@@ -38,21 +38,21 @@ title: Activity
 
 ### Talks
 
-<strong>21.10.2020</strong>: I presented "Generating Categories for Sets of Entities" at CIKM 2020 \\
-<strong>27.08.2020</strong>: I presented "Evaluating Conversational Recommender Systems via User Simulation" at KDD 2020. \\
-<strong>23.04.2020</strong>: I gave an online presentation on "Novel Entity Discovery from Web Tables" at WWW 2020. The work has also been discussed at the [Tech at Bloomberg blog](https://www.techatbloomberg.com/blog/using-tables-to-build-better-knowledge-graphs/).\\
-<strong>20.12.2019</strong>: I was invited to give a talk on my PhD work at [IO data](https://www.io-data.no/), Sandess, Norway. \\
-<strong>04.10.2019</strong>: I gave an oral presentation on "Auto-completion for Data Cells in Relational Tables" at CIKM 2019, Beijing, China. \\
-<strong>07.2018</strong>: I gave three presentations at SIGIR 2018, Ann Arbor, Michigan, U.S.A.  \\
-<strong>04.2018</strong>: I gave an oral presentation on "Ad Hoc Table Retrieval using Semantic Similarity" at WWW 2018, Leon, France.\\
-<strong>08.2017</strong>: I gave an oral presentation on "EntiTables: Smart Assistance for Entity-Focused Tables" at SIGIR 2017, Tokyo, Japan. \\
-<strong>07.2017</strong>: I attended ASSIA'17 summer school at Kyoto, Japan and presented "EntiTables: Smart Assistance for Entity-Focused Tables". \\
-<strong>04.2017</strong>: I presented "Design Patterns for Fusion-Based Object Retrieval" at ECIR 2020, Aberdeen, Scotland.  
+<strong>2020.10.21</strong>: I presented "Generating Categories for Sets of Entities" at CIKM 2020 \\
+<strong>2020.08.27</strong>: I presented "Evaluating Conversational Recommender Systems via User Simulation" at KDD 2020. \\
+<strong>2020.04.23</strong>: I gave an online presentation on "Novel Entity Discovery from Web Tables" at WWW 2020. The work has also been discussed at the [Tech at Bloomberg blog](https://www.techatbloomberg.com/blog/using-tables-to-build-better-knowledge-graphs/).\\
+<strong>2019.12.20</strong>: I was invited to give a talk on my PhD work at [IO data](https://www.io-data.no/), Sandess, Norway. \\
+<strong>2019.10.04</strong>: I gave an oral presentation on "Auto-completion for Data Cells in Relational Tables" at CIKM 2019, Beijing, China. \\
+<strong>2018.07</strong>: I gave three presentations at SIGIR 2018, Ann Arbor, Michigan, U.S.A.  \\
+<strong>2018.04</strong>: I gave an oral presentation on "Ad Hoc Table Retrieval using Semantic Similarity" at WWW 2018, Leon, France.\\
+<strong>2017.08</strong>: I gave an oral presentation on "EntiTables: Smart Assistance for Entity-Focused Tables" at SIGIR 2017, Tokyo, Japan. \\
+<strong>2017.07</strong>: I attended ASSIA'17 summer school at Kyoto, Japan and presented "EntiTables: Smart Assistance for Entity-Focused Tables". \\
+<strong>2017.04</strong>: I presented "Design Patterns for Fusion-Based Object Retrieval" at ECIR 2020, Aberdeen, Scotland.  
 
 ### Tutorials and Workshops
 
-<strong>21.07.2019</strong>: I gave a tutorial on Web Table Extraction, Retrieval and Augmentation ([Slides](https://github.com/iai-group/webtables-tutorial)) at SIGIR 2019, Paris, France. \\
-<strong>15.07.2021</strong>: We organize the [Sim4IR](http://sim4ir.org/) workshop at SIGIR 2021.
+<strong>2019.07.21</strong>: I gave a tutorial on Web Table Extraction, Retrieval and Augmentation ([Slides](https://github.com/iai-group/webtables-tutorial)) at SIGIR 2019, Paris, France. \\
+<strong>2021.07.15</strong>: We organize the [Sim4IR](http://sim4ir.org/) workshop at SIGIR 2021.
 
 ### Professional Services
 
