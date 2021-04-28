@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="909e6139-1d8d-43c3-81e2-a54e7c722e38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/3_activity.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/3_activity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/Activity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/Activity/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,25 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_news/announcement_1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_bibliography/papers.bib">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4275">
-              <caret line="285" column="22" selection-start-line="285" selection-start-column="22" selection-end-line="285" selection-end-column="22" />
+            <state relative-caret-position="341">
+              <caret line="367" column="1" lean-forward="true" selection-start-line="367" selection-start-column="1" selection-end-line="367" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -83,13 +71,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_pages/3_activity.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="374">
-                <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+              <first_editor relative-caret-position="359">
+                <caret line="64" column="29" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
               </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_pages/1_publications.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
@@ -113,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_bibliography/papers.bib" />
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/_pages/2_education.md" />
         <option value="$PROJECT_DIR$/../../../../bb/tax_rate.py" />
@@ -125,12 +124,13 @@
         <option value="$PROJECT_DIR$/_site/Activity/index.html" />
         <option value="$PROJECT_DIR$/_pages/about.md" />
         <option value="$PROJECT_DIR$/_pages/3_activity.md" />
+        <option value="$PROJECT_DIR$/_bibliography/papers.bib" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="83" />
-    <option name="y" value="60" />
+    <option name="x" value="41" />
+    <option name="y" value="69" />
     <option name="width" value="1197" />
     <option name="height" value="642" />
   </component>
@@ -146,6 +146,11 @@
             <path>
               <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_bibliography" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -231,7 +236,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="83" y="60" width="1197" height="642" extended-state="0" />
+    <frame x="41" y="69" width="1197" height="642" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2805195" />
@@ -266,16 +271,6 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#0/run_1.py" />
-    <entry file="file://$PROJECT_DIR$/_pages/1_publications.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_pages/2_education.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -363,13 +358,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_bibliography/papers.bib">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4275">
-          <caret line="285" column="22" selection-start-line="285" selection-start-column="22" selection-end-line="285" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_data/coauthors.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -407,12 +395,29 @@
     <entry file="file://$PROJECT_DIR$/_pages/3_activity.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="374">
-            <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+          <first_editor relative-caret-position="359">
+            <caret line="64" column="29" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/1_publications.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_bibliography/papers.bib">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="367" column="1" lean-forward="true" selection-start-line="367" selection-start-column="1" selection-end-line="367" selection-end-column="1" />
         </state>
       </provider>
     </entry>
