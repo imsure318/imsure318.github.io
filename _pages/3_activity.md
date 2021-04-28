@@ -57,6 +57,8 @@ title: Activity
 ### Professional Services
 
 Tutorials PC Chair of ECIR 2022 \\
+Co-chair of Sim4IR workshop at SIGIR 2021 \\
+PC Member of 2021-2022 Bloomberg Data Science Ph.D. Fellowship \\
 PC Member of SIGIR 2019, 2020, 2021 \\
 PC Member of SIGKDD 2021 \\
 PC Member of WSDM 2021 \\
