@@ -38,6 +38,7 @@ title: Activity
 
 ### Talks
 
+<strong>2021.08.03</strong>: Our paper is presented at ACL 2021, see [Tech at Bloomberg blog](https://www.techatbloomberg.com/blog/bloombergs-ai-researchers-engineers-publish-3-nlp-papers-at-acl-ijcnlp-2021/) for more details. 
 <strong>2021.07.14</strong>: Two demos are presented at SIGIR 2021. The work has also been discussed at the [Tech at Bloomberg blog](https://www.techatbloomberg.com/blog/bloombergs-ai-researchers-engineers-publish-3-papers-at-sigir-2021/).\\
 <strong>2020.10.21</strong>: I presented "Generating Categories for Sets of Entities" at CIKM 2020 \\
 <strong>2020.08.27</strong>: I presented "Evaluating Conversational Recommender Systems via User Simulation" at KDD 2020. \\
