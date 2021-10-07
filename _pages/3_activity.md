@@ -15,6 +15,7 @@ title: Activity
 
 ### Teaching and Supervision
 
+<strong>Semester 2, 2020/2021</strong>: Thesis sensor, UiS\\
 <strong>Semester 1, 2020/2021</strong>: Guest lecturer, Information Retrieval and Text Mining course, UiS\\
 <strong>Semester 1, 2019/2020</strong>: Guest lecturer, Information Retrieval and Text Mining course, UiS\\
 <strong>Semester 2, 2017/2018</strong>: Advisor: master thesis on Table Embeddings, UiS\\
@@ -38,6 +39,7 @@ title: Activity
 
 ### Talks
 
+<strong>2021.10.08</strong>: I gave a lightning talk on [user satisfaction simulation](https://arxiv.org/pdf/2105.03748.pdf) at [SCAI](https://scai.info/). \\
 <strong>2021.08.03</strong>: Our paper is presented at ACL 2021, see [Tech at Bloomberg blog](https://www.techatbloomberg.com/blog/bloombergs-ai-researchers-engineers-publish-3-nlp-papers-at-acl-ijcnlp-2021/) for more details. 
 <strong>2021.07.14</strong>: Two demos are presented at SIGIR 2021. The work has also been discussed at the [Tech at Bloomberg blog](https://www.techatbloomberg.com/blog/bloombergs-ai-researchers-engineers-publish-3-papers-at-sigir-2021/).\\
 <strong>2020.10.21</strong>: I presented "Generating Categories for Sets of Entities" at CIKM 2020 \\
@@ -60,7 +62,7 @@ title: Activity
 
 Tutorials PC Chair of ECIR 2022 \\
 Co-chair of Sim4IR workshop at SIGIR 2021 \\
-<!--Area Chairs of 2021-2022 Bloomberg Data Science Ph.D. Fellowship \\-->
+Area Chair of 2021-2022 Bloomberg Data Science Ph.D. Fellowship \\
 PC Member of SIGIR 2019, 2020, 2021 \\
 PC Member of CIKM 2021 \\
 PC Member of SIGKDD 2021 \\
