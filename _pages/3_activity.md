@@ -40,9 +40,9 @@ title: Activity
 ### Talks
 
 <strong>2021.10.08</strong>: I gave a lightning talk on [user satisfaction simulation](https://arxiv.org/pdf/2105.03748.pdf) at [SCAI](https://scai.info/). \\
-<strong>2021.08.03</strong>: Our paper is presented at ACL 2021, see [Tech at Bloomberg blog](https://www.techatbloomberg.com/blog/bloombergs-ai-researchers-engineers-publish-3-nlp-papers-at-acl-ijcnlp-2021/) for more details. 
-<strong>2021.07.14</strong>: Two demos are presented at SIGIR 2021. The work has also been discussed at the [Tech at Bloomberg blog](https://www.techatbloomberg.com/blog/bloombergs-ai-researchers-engineers-publish-3-papers-at-sigir-2021/).\\
-<strong>2020.10.21</strong>: I presented "Generating Categories for Sets of Entities" at CIKM 2020 \\
+<strong>2021.08.03</strong>: Our paper was presented at ACL 2021, see [Tech at Bloomberg blog](https://www.techatbloomberg.com/blog/bloombergs-ai-researchers-engineers-publish-3-nlp-papers-at-acl-ijcnlp-2021/) for more details. 
+<strong>2021.07.14</strong>: Two demos were presented at SIGIR 2021. The work has also been discussed at the [Tech at Bloomberg blog](https://www.techatbloomberg.com/blog/bloombergs-ai-researchers-engineers-publish-3-papers-at-sigir-2021/).\\
+<strong>2020.10.21</strong>: I presented "Generating Categories for Sets of Entities" at CIKM 2020. \\
 <strong>2020.08.27</strong>: I presented "Evaluating Conversational Recommender Systems via User Simulation" at KDD 2020. \\
 <strong>2020.04.23</strong>: I gave an online presentation on "Novel Entity Discovery from Web Tables" at WWW 2020. The work has also been discussed at the [Tech at Bloomberg blog](https://www.techatbloomberg.com/blog/using-tables-to-build-better-knowledge-graphs/).\\
 <strong>2019.12.20</strong>: I was invited to give a talk on my PhD work at [IO data](https://www.io-data.no/), Sandess, Norway. \\
