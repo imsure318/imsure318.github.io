@@ -31,7 +31,7 @@ title: Activity
 <strong>2019</strong>: Mobility Scholarship of UiS (54K nok, CMU visit) \\
 <strong>2018</strong>: Project Plogen (50K nok, Prototype development for FAETE project) \\
 <strong>2017 - 2019</strong>: SIGIR 2017, 2018 and 2019 student travel grant (5650 US $) \\
-<strong>2014 - 2016</strong>: Quota Schema Scholarship of Norway (~200K nok) \\
+<strong>2014 - 2016</strong>: Quota Scheme Scholarship of Norway (~200K nok) \\
 <strong>2013 - 2014</strong>: National Scholarship for Graduate Students of China (20K CNY) \\
 <strong>2012 - 2013</strong>: Nandu Enterprise Outstanding Graduate Scholarship \\
 <strong>2011 - 2012</strong>: Best Student Model of NJUPT, Top 1/320 \\
@@ -51,18 +51,19 @@ title: Activity
 <strong>2018.04</strong>: I gave an oral presentation on "Ad Hoc Table Retrieval using Semantic Similarity" at WWW 2018, Leon, France.\\
 <strong>2017.08</strong>: I gave an oral presentation on "EntiTables: Smart Assistance for Entity-Focused Tables" at SIGIR 2017, Tokyo, Japan. \\
 <strong>2017.07</strong>: I attended ASSIA'17 summer school at Kyoto, Japan and presented "EntiTables: Smart Assistance for Entity-Focused Tables". \\
-<strong>2017.04</strong>: I presented "Design Patterns for Fusion-Based Object Retrieval" at ECIR 2020, Aberdeen, Scotland.  
+<strong>2017.04</strong>: I presented "Design Patterns for Fusion-Based Object Retrieval" at ECIR 2017, Aberdeen, Scotland.  
 
 ### Tutorials and Workshops
 
 <strong>2019.07.21</strong>: I gave a tutorial on Web Table Extraction, Retrieval and Augmentation ([Slides](https://github.com/iai-group/webtables-tutorial)) at SIGIR 2019, Paris, France. \\
-<strong>2021.07.15</strong>: We organize the [Sim4IR](http://sim4ir.org/) workshop at SIGIR 2021.
+<strong>2021.07.15</strong>: We organized the [Sim4IR](http://sim4ir.org/) workshop at SIGIR 2021.
 
 ### Professional Services
 
 Tutorials PC Chair of ECIR 2022 \\
 Co-chair of Sim4IR workshop at SIGIR 2021 \\
 Area Chair of 2021-2022 Bloomberg Data Science Ph.D. Fellowship \\
+PC Member of CHIIR 2022 \\
 PC Member of SIGIR 2019, 2020, 2021 \\
 PC Member of CIKM 2021 \\
 PC Member of SIGKDD 2021 \\
