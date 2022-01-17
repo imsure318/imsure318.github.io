@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="909e6139-1d8d-43c3-81e2-a54e7c722e38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/_bibliography/papers.bib">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
-              <caret line="422" lean-forward="true" selection-start-line="422" selection-end-line="422" />
+              <caret line="426" column="17" lean-forward="true" selection-start-line="426" selection-start-column="17" selection-end-line="426" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -126,8 +124,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="38" />
-    <option name="y" value="93" />
+    <option name="x" value="27" />
+    <option name="y" value="34" />
     <option name="width" value="1378" />
     <option name="height" value="642" />
   </component>
@@ -232,7 +230,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="38" y="93" width="1378" height="642" extended-state="0" />
+    <frame x="437" y="36" width="1378" height="642" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28143713" />
@@ -450,7 +448,7 @@
     <entry file="file://$PROJECT_DIR$/_bibliography/papers.bib">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="422" lean-forward="true" selection-start-line="422" selection-end-line="422" />
+          <caret line="426" column="17" lean-forward="true" selection-start-line="426" selection-start-column="17" selection-end-line="426" selection-end-column="17" />
         </state>
       </provider>
     </entry>
