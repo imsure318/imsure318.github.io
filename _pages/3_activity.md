@@ -7,7 +7,7 @@ title: Activity
 
 ### Work Experience
 
-<strong>2021.09 - Present</strong>: Senior Research Scientist at Bloomberg AI, London, UK \\
+<strong>2021.10 - Present</strong>: Senior Research Scientist at Bloomberg AI, London, UK \\
 <strong>2020.03 - 2021.09</strong>: Research Scientist at Bloomberg AI, London, UK \\
 <strong>2019.07 - 2020.02</strong>: Senior Research Fellow at University of Stavanger, Stavanger, Norway \\
 <strong>2019.02 - 2019.05</strong>: Visiting Scholar at Carnegie Mellon University, Pittsburgh, USA \\
