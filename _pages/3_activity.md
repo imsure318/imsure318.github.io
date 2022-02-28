@@ -56,8 +56,8 @@ title: Activity
 
 ### Tutorials and Workshops
 
-<strong>2019.07.21</strong>: Me and Prof. Krisztian Balog gave a tutorial on Web Table Extraction, Retrieval and Augmentation ([Slides](https://github.com/iai-group/webtables-tutorial)) at SIGIR 2019, Paris, France. \\
-<strong>2021.07.15</strong>: Co-organizer of the [Sim4IR](http://sim4ir.org/) workshop at SIGIR 2021.
+<strong>2021.07.15</strong>: Co-organizer of the [Sim4IR](http://sim4ir.org/) workshop at SIGIR 2021. \\
+<strong>2019.07.21</strong>: Me and Prof. Krisztian Balog gave a tutorial on Web Table Extraction, Retrieval and Augmentation ([Slides](https://github.com/iai-group/webtables-tutorial)) at SIGIR 2019, Paris, France.
 
 ### Professional Services
 
