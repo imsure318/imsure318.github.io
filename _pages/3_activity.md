@@ -66,7 +66,7 @@ Co-chair of Sim4IR workshop at SIGIR 2021 \\
 Area Chair of 2021-2022 Bloomberg Data Science Ph.D. Fellowship \\
 PC Member of CHIIR 2022 \\
 PC Member of SIGIR 2019-2022 \\
-PC Member of CIKM 2021 \\
+PC Member of CIKM 2021-2022 \\
 PC Member of SIGKDD 2021 \\
 PC Member of WSDM 2021 \\
 PC Member of ACM TOIS 2020 \\
