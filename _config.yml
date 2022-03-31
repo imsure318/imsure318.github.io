@@ -2,6 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Shuo Zhang
+scholar:
+  last_name: Zhang
 email: imsure318@gmail.com
 #research_gate_profile: Shuo_Zhang73
 #github_username: imsure318
@@ -30,7 +32,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: imsure318 # your GitHub user name
-twitter_username: # your Twitter handle
+twitter_username: imsure318 # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: y0fwY7IAAAAJ&view_op=list_works # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -106,7 +108,8 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Zhang
+  first_name: Shuo
 
   style: apa
   locale: en
