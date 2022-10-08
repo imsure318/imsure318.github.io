@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24cf6885-2083-4dcc-b246-371174006395" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Activity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Activity/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/Activity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/Activity/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/pdf/2022_acl_table.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/pdf/2022_fever_table.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/pdf/2022_sigir_simulation.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/publications/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publications/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,11 +20,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Activity/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2168">
-              <caret line="165" column="48" selection-start-line="165" selection-start-column="48" selection-end-line="165" selection-end-column="48" />
+            <state relative-caret-position="306">
+              <caret line="130" column="33" lean-forward="true" selection-start-line="130" selection-start-column="33" selection-end-line="130" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -47,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/publications/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="312">
-              <caret line="409" column="2" lean-forward="true" selection-start-line="409" selection-start-column="2" selection-end-line="409" selection-end-column="2" />
+              <caret line="409" column="2" selection-start-line="409" selection-start-column="2" selection-end-line="409" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -64,13 +58,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Activity/index.html" />
         <option value="$PROJECT_DIR$/publications/index.html" />
+        <option value="$PROJECT_DIR$/Activity/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="104" />
+    <option name="x" value="3" />
+    <option name="y" value="25" />
     <option name="width" value="1280" />
     <option name="height" value="642" />
   </component>
@@ -109,11 +104,6 @@
               <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="Activity" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="publications" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -140,7 +130,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="104" width="1280" height="642" extended-state="0" />
+    <frame x="3" y="25" width="1280" height="642" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
@@ -169,13 +159,6 @@
         <state relative-caret-position="-1436" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Activity/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2168">
-          <caret line="165" column="48" selection-start-line="165" selection-start-column="48" selection-end-line="165" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -187,7 +170,14 @@
     <entry file="file://$PROJECT_DIR$/publications/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
-          <caret line="409" column="2" lean-forward="true" selection-start-line="409" selection-start-column="2" selection-end-line="409" selection-end-column="2" />
+          <caret line="409" column="2" selection-start-line="409" selection-start-column="2" selection-end-line="409" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Activity/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="130" column="33" lean-forward="true" selection-start-line="130" selection-start-column="33" selection-end-line="130" selection-end-column="33" />
         </state>
       </provider>
     </entry>
