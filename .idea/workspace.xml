@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24cf6885-2083-4dcc-b246-371174006395" name="Default Changelist" comment="" />
+    <list default="true" id="24cf6885-2083-4dcc-b246-371174006395" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,15 +15,47 @@
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3675">
+              <caret line="245" column="79" selection-start-line="245" selection-start-column="79" selection-end-line="245" selection-end-column="79" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_site/publications/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="565" column="98" selection-start-line="565" selection-start-column="24" selection-end-line="565" selection-end-column="98" />
+            <state relative-caret-position="416">
+              <caret line="478" lean-forward="true" selection-start-line="478" selection-end-line="478" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_bibliography/papers.bib">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="458" column="10" selection-start-line="458" selection-start-column="10" selection-end-line="458" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/Activity/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1756" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/bin/deploy">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/education/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1983" />
           </provider>
         </entry>
       </file>
@@ -34,6 +69,7 @@
       <list>
         <option value="$PROJECT_DIR$/publications/index.html" />
         <option value="$PROJECT_DIR$/Activity/index.html" />
+        <option value="$PROJECT_DIR$/_bibliography/papers.bib" />
         <option value="$PROJECT_DIR$/_site/publications/index.html" />
       </list>
     </option>
@@ -81,7 +117,33 @@
               <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="pdf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="webfonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
               <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="education" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -92,18 +154,7 @@
             <path>
               <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="Activity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="pdf" type="462c0819:PsiDirectoryNode" />
+              <item name="education" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -160,13 +211,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/publications/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-521">
-          <caret line="409" column="2" selection-start-line="409" selection-start-column="2" selection-end-line="409" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Activity/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1505">
@@ -174,18 +218,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/Activity/index.html">
+    <entry file="file://$PROJECT_DIR$/projects/1_project/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1436" />
+        <state relative-caret-position="-2583" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6135">
+          <caret line="409" column="2" selection-start-line="409" selection-start-column="2" selection-end-line="409" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/announcement_2/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1710">
+            <caret line="114" selection-start-line="114" selection-end-line="114" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1276" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015/03/15/formatting-and-links.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/education/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" column="12" lean-forward="true" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015/05/15/images.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1469" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015/07/15/code.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015/10/20/comments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-610" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015/10/20/math.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1281" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/bin/deploy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/education/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1983" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3675">
+          <caret line="245" column="79" selection-start-line="245" selection-start-column="79" selection-end-line="245" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/bin/cibuild">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/Activity/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1756" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_bibliography/papers.bib">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="458" column="10" selection-start-line="458" selection-start-column="10" selection-end-line="458" selection-end-column="70" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/publications/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="565" column="98" selection-start-line="565" selection-start-column="24" selection-end-line="565" selection-end-column="98" />
+        <state relative-caret-position="416">
+          <caret line="478" lean-forward="true" selection-start-line="478" selection-end-line="478" />
         </state>
       </provider>
     </entry>
