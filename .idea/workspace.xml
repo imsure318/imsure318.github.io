@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24cf6885-2083-4dcc-b246-371174006395" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_site/publications/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="24cf6885-2083-4dcc-b246-371174006395" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_site/publications/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-444">
-              <caret line="491" column="23" selection-start-line="491" selection-start-column="23" selection-end-line="491" selection-end-column="23" />
+            <state relative-caret-position="169">
+              <caret line="565" column="98" selection-start-line="565" selection-start-column="24" selection-end-line="565" selection-end-column="98" />
             </state>
           </provider>
         </entry>
@@ -61,6 +59,16 @@
             <path>
               <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="2015" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_bibliography" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_site" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -68,6 +76,12 @@
               <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_site" type="462c0819:PsiDirectoryNode" />
               <item name="Activity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -79,6 +93,17 @@
               <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="Activity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="pdf" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -159,8 +184,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/publications/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-444">
-          <caret line="491" column="23" selection-start-line="491" selection-start-column="23" selection-end-line="491" selection-end-column="23" />
+        <state relative-caret-position="169">
+          <caret line="565" column="98" selection-start-line="565" selection-start-column="24" selection-end-line="565" selection-end-column="98" />
         </state>
       </provider>
     </entry>
