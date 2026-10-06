@@ -1,0 +1,8 @@
+node_modules/
+_site/
+assets/img/
+assets/pdf/
+assets/fonts/
+assets/webfonts/
+assets/css/*.min.css
+pnpm-lock.yaml
