@@ -1003,10 +1003,8 @@ footer {
   font-size: 0.75rem;
   font-weight: 300;
   padding: 0.5rem;
-  position: fixed;
-  left: 0px;
-  bottom: 0px;
-  width: 100%;
+  position: static;
+  margin-top: 2rem;
 }
 footer a {
   color: #fff;
@@ -1599,4 +1597,37 @@ h6 {
 
 div.equation {
   margin: 0.5rem 0;
+}
+
+/* Give the biography the full reading width on small screens. */
+@media screen and (max-width: 600px) {
+  .wrapper {
+    padding-right: 24px;
+    padding-left: 24px;
+  }
+
+  .post-header {
+    margin-bottom: 24px;
+  }
+
+  .profile {
+    float: none;
+    width: auto;
+    padding: 0;
+    margin: 0 0 24px;
+    text-align: center;
+  }
+
+  .profile img {
+    display: block;
+    width: 160px;
+    max-width: 100%;
+    margin: 0 auto 12px;
+  }
+
+  .profile .address {
+    font-family: inherit;
+    font-size: 0.875rem;
+    line-height: 1.5;
+  }
 }
