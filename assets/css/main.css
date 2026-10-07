@@ -1631,3 +1631,31 @@ div.equation {
     line-height: 1.5;
   }
 }
+
+/* Frame the original portrait without modifying either photo asset. */
+.profile .portrait {
+  position: relative;
+  aspect-ratio: 1;
+  overflow: hidden;
+  box-shadow: 0 0 5px #828282;
+  margin-bottom: 12px;
+}
+
+.profile .portrait img {
+  position: absolute;
+  width: 160%;
+  max-width: none;
+  height: auto;
+  left: -30%;
+  top: -60%;
+  margin: 0;
+  box-shadow: none;
+}
+
+@media screen and (max-width: 600px) {
+  .profile .portrait {
+    width: 160px;
+    max-width: 100%;
+    margin: 0 auto 12px;
+  }
+}
