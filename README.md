@@ -39,7 +39,18 @@ In VS Code, install the recommended Prettier extension to enable format-on-save 
 
 ## Hosting
 
-The files can be served directly by GitHub Pages. Check the repository’s Pages settings for the configured publishing branch or workflow before deploying. No Jekyll build is needed for this checkout.
+GitHub Pages publishes the repository root on the `master` branch. The `source` branch is used for editing. The `.nojekyll` file tells Pages to serve these static files without a Jekyll build.
+
+After committing and checking changes on `source`, fetch and merge `origin/master` to preserve any publishing-branch changes, then push the same commit to both branches:
+
+```sh
+git fetch origin
+git merge origin/master
+git push origin source
+git push origin HEAD:master
+```
+
+The push to `master` triggers GitHub’s Pages deployment. The formatting workflow alone does not deploy the website.
 
 ## Credits
 
